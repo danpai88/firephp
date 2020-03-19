@@ -1,0 +1,11 @@
+{
+    "name": "huohuopc/firephp",
+    "description": "myself php framework base on swoole",
+    "authors": [
+        {
+            "name": "chenyan",
+            "email": "2545205707@qq.com"
+        }
+    ],
+    "require": {}
+}
